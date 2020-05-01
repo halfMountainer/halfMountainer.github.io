@@ -1,5 +1,6 @@
 ---
 title: 半山居
+layout: post
 categories: [酒后打油]
 date: 2018-05-12
 ---
